@@ -34,7 +34,7 @@ I develop statistical methods for understanding how infectious diseases spread t
 
 I am a Senior Lecturer in Statistics at the [University of the Witwatersrand](https://www.wits.ac.za), where I have taught since 2018. My work centres on spatio-stochastic models that capture the spatially uneven way epidemics spread, with applications to COVID-19, tuberculosis and wastewater-based disease surveillance. I completed a postdoctoral fellowship in tuberculosis modelling at [Johns Hopkins University](https://www.jhu.edu) in 2024.
 
-I am a founding member of [**SEPIMOD**](https://raymandoc.quarto.pub/sepimod/), the Spatial Epidemiological Modelling Group, which brings together Wits, the University of Pretoria, the CSIR, the South African Medical Research Council and IBM. I am also a founding member of the **Old Mutual–Wits Risk Lab**. I also coordinate mentoring for STEM MentHer and care a great deal about helping students move from Honours into research careers.
+I am a founding member of [**SEPIMOD**](https://raymandoc.quarto.pub/sepimod/), the Spatial Epidemiological Modelling Group, which brings together Wits, the University of Pretoria, the CSIR, the South African Medical Research Council and IBM. I am also a founding member of the **Old Mutual–Wits Risk Lab**. I care a great deal about creating inclusive STEM opportunities for South Africans, particularly women, and coordinate mentoring for [STEM MentHer](https://www.stemmenther.co.za/).
 
 ::: stats
 ::: {}
@@ -200,7 +200,7 @@ Evaluating how R is taught across undergraduate and postgraduate curricula, and 
 [Mentoring]{.when}
 
 ::: what
-Mentor Coordinator, STEM MentHer (2025 – now). Co-author of the *Indigenising Mentorship* framework for African early-career academics (2025).
+Mentor Coordinator, [STEM MentHer](https://www.stemmenther.co.za/) (2025 – now). Co-author of the *Indigenising Mentorship* framework for African early-career academics (2025).
 :::
 :::
 
@@ -208,7 +208,7 @@ Mentor Coordinator, STEM MentHer (2025 – now). Co-author of the *Indigenising 
 [Service]{.when}
 
 ::: what
-SASA 2026 Local Organising Committee and Scientific Programme Committee; organiser, ASA DataFest (2025); reviewer for *Spatial Statistics*.
+SASA 2026 Local Organising Committee and Scientific Programme Committee; organiser, [ASA DataFest](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nqGypBUAAAAJ&citation_for_view=nqGypBUAAAAJ:Y0pCki6q_DkC) (2025 and 2026); reviewer for *Spatial Statistics*.
 :::
 :::
 :::

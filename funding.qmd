@@ -46,7 +46,7 @@ subtitle: "Grants as principal investigator and through the SEPIMOD collaboratio
 [2025]{.when}
 
 ::: what
-**ASA DataFest** [Co-PI]{.note}
+**[ASA DataFest](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nqGypBUAAAAJ&citation_for_view=nqGypBUAAAAJ:Y0pCki6q_DkC)** [Co-PI]{.note}
 
 [DSI-NRF Centre of Excellence in Mathematical and Statistical Sciences (CoE-MaSS)]{.meta}
 

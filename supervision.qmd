@@ -81,4 +81,4 @@ Spatial modelling of COVID-19 using wastewater data in the presence of spatially
 
 ## Looking ahead
 
-I run regular research meetings with my postgraduate students through SEPIMOD. Through STEM MentHer and a proposed Elsevier Foundation programme, I am building structured support for women moving from Honours into academia. If you would like to work with me, see [Join](join.qmd).
+I run regular research meetings with my postgraduate students through SEPIMOD. I care about making STEM careers open to all South Africans, particularly women. Through [STEM MentHer](https://www.stemmenther.co.za/) and a proposed Elsevier Foundation programme, I am building structured support for women moving from Honours into academia. If you would like to work with me, see [Join](join.qmd).
