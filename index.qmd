@@ -3,14 +3,19 @@ pagetitle: "Raeesa Manjoo-Docrat"
 ---
 
 ::: hero
+::: hero-photo
+![](raeesa.webp){.portrait fig-alt="Portrait of Raeesa Manjoo-Docrat"}
+:::
+
+::: hero-text
 ::: eyebrow
 Statistics · Spatial epidemiology
 :::
 
-# Dr Raeesa Manjoo-Docrat {.unnumbered .unlisted}
+# Dr Raeesa [Manjoo-Docrat]{.nowrap} {.unnumbered .unlisted}
 
 ::: role
-Lecturer, School of Statistics and Actuarial Science, University of the Witwatersrand, Johannesburg
+Senior Lecturer, School of Statistics and Actuarial Science, University of the Witwatersrand, Johannesburg
 :::
 
 ::: links
@@ -21,14 +26,15 @@ Lecturer, School of Statistics and Actuarial Science, University of the Witwater
 [LinkedIn](https://www.linkedin.com/in/raeesa-docrat-88228bb1/)
 :::
 :::
+:::
 
 ::: lede
 I develop statistical methods for understanding how infectious diseases spread through space and time, and use them to inform public health decisions in South Africa and beyond.
 :::
 
-I have been a Lecturer in Statistics at the [University of the Witwatersrand](https://www.wits.ac.za) since 2018. My work centres on spatio-stochastic models that capture the spatially uneven way epidemics spread, with applications to COVID-19, tuberculosis and wastewater-based disease surveillance. I completed a postdoctoral fellowship in tuberculosis modelling at [Johns Hopkins University](https://www.jhu.edu) in 2024.
+I am a Senior Lecturer in Statistics at the [University of the Witwatersrand](https://www.wits.ac.za), where I have taught since 2018. My work centres on spatio-stochastic models that capture the spatially uneven way epidemics spread, with applications to COVID-19, tuberculosis and wastewater-based disease surveillance. I completed a postdoctoral fellowship in tuberculosis modelling at [Johns Hopkins University](https://www.jhu.edu) in 2024.
 
-I am a founding member of the **SEPIMOD** COVID-19 modelling consortium, which brings together Wits, the University of Pretoria, the CSIR and the South African Medical Research Council, and of the **Old Mutual–Wits Risk Lab**. I also coordinate mentoring for STEM MentHer and care a great deal about helping students move from Honours into research careers.
+I am a founding member of [**SEPIMOD**](https://raymandoc.quarto.pub/sepimod/), the Spatial Epidemiological Modelling Group, which brings together Wits, the University of Pretoria, the CSIR, the South African Medical Research Council and IBM. I am also a founding member of the **Old Mutual–Wits Risk Lab**. I also coordinate mentoring for STEM MentHer and care a great deal about helping students move from Honours into research careers.
 
 ::: stats
 ::: {}
@@ -99,7 +105,17 @@ Evaluating how R is taught across undergraduate and postgraduate curricula, and 
 
 ::: entries
 ::: entry
-[2018 – now]{.when}
+[2025 – now]{.when}
+
+::: what
+**Senior Lecturer, Statistics and Actuarial Science**
+
+[University of the Witwatersrand · since November 2025]{.meta}
+:::
+:::
+
+::: entry
+[2018 – 2025]{.when}
 
 ::: what
 **Lecturer, Statistics and Actuarial Science**
@@ -176,7 +192,7 @@ Evaluating how R is taught across undergraduate and postgraduate curricula, and 
 [Founding member]{.when}
 
 ::: what
-Old Mutual–Wits Risk Lab; SEPIMOD COVID-19 modelling consortium (Wits, University of Pretoria, CSIR, SAMRC)
+[SEPIMOD](https://raymandoc.quarto.pub/sepimod/), the Spatial Epidemiological Modelling Group (Wits, University of Pretoria, CSIR, SAMRC, IBM); Old Mutual–Wits Risk Lab
 :::
 :::
 

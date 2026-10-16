@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-subtitle: "Lecturer, School of Statistics and Actuarial Science, University of the Witwatersrand, since April 2018."
+subtitle: "Senior Lecturer (since November 2025), School of Statistics and Actuarial Science, University of the Witwatersrand. Teaching at Wits since April 2018."
 ---
 
 I teach undergraduate and postgraduate courses in applied statistics, spatial statistics, survival analysis and statistical programming. I try to connect theory with practice, and R is central to how I teach.

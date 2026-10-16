@@ -81,6 +81,6 @@ subtitle: "Grants as principal investigator and through the SEPIMOD collaboratio
 
 ## About my funding
 
-My early research was funded through collaborative partnerships within SEPIMOD, where I developed spatial and computational models and contributed modelling and data analysis expertise to national COVID-19 and wastewater surveillance work.
+My early research was funded through collaborative partnerships within [SEPIMOD](https://raymandoc.quarto.pub/sepimod/), the Spatial Epidemiological Modelling Group, where I developed spatial and computational models and contributed modelling and data analysis expertise to its spatial epidemiology and wastewater surveillance work.
 
 I now lead independently funded research. The NRF Thuthuka grant supports statistical methods for spatially misaligned health data, spatio-temporal models for disease surveillance and spatial optimisation tools for tuberculosis interventions. A new IMSA and Investec grant extends this work to non-communicable diseases.

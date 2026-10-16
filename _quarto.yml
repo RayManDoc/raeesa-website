@@ -9,7 +9,7 @@ project:
 website:
   title: "Raeesa Manjoo-Docrat"
   site-url: "https://raymandoc.github.io/raeesa-website/"
-  description: "Lecturer in Statistics at the University of the Witwatersrand. Spatial statistics and infectious disease modelling."
+  description: "Senior Lecturer in Statistics at the University of the Witwatersrand. Spatial statistics and infectious disease modelling."
   search: false
   navbar:
     title: "Raeesa Manjoo-Docrat"

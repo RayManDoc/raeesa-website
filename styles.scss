@@ -63,7 +63,19 @@ h3 { font-size: 1.15rem; font-weight: 600; margin-top: 2rem; }
 }
 
 // Home hero
-.hero { margin: 4rem 0 1rem; }
+.hero { margin: 4rem 0 1rem; display: grid; grid-template-columns: 11rem 1fr; gap: 2.5rem; align-items: center; }
+.hero-photo p { margin: 0; }
+.nowrap { white-space: nowrap; }
+@media (max-width: 991px) { .hero h1 { font-size: 2.5rem; } }
+.hero-photo img.portrait {
+  width: 11rem; height: 11rem; object-fit: cover; object-position: center 20%;
+  border-radius: 50%; display: block;
+  box-shadow: 0 0 0 6px $paper, 0 0 0 7px $rule;
+}
+@media (max-width: 575px) {
+  .hero { grid-template-columns: 1fr; gap: 1.5rem; margin-top: 2.5rem; }
+  .hero-photo img.portrait { width: 8.5rem; height: 8.5rem; }
+}
 .hero h1 { font-size: 3rem; line-height: 1.1; margin: 0 0 .8rem; border: 0; }
 .hero .role { color: $muted; font-size: 1.08rem; margin-bottom: 1.4rem; }
 .hero .links, .hero .links > p { display: flex; flex-wrap: wrap; gap: .4rem 1.4rem; font-size: .92rem; font-weight: 500; }
