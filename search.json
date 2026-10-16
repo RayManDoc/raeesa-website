@@ -4,132 +4,167 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Lecturer, School of Statistics and Actuarial Sciences, University of the Witwatersrand, April 2018 – present.\nMy teaching spans undergraduate and postgraduate courses in applied statistics, spatial statistics, survival analysis, and statistical programming. I bring a strong commitment to bridging theory with practice, with R statistical software central to my pedagogy."
+    "text": "I teach undergraduate and postgraduate courses in applied statistics, spatial statistics, survival analysis and statistical programming. I try to connect theory with practice, and R is central to how I teach."
+  },
+  {
+    "objectID": "teaching.html#courses",
+    "href": "teaching.html#courses",
+    "title": "Teaching",
+    "section": "Courses",
+    "text": "Courses\n\n\n2021 – 2025\n\nUndergraduate\nSurvival Analysis · STAT3035\nSemester 1 · about 100 students · course coordinator\nKaplan–Meier estimation, hazard functions, design of experiments, model checking, multiple events and frailty. I developed the course material, practicals and assessments.\n\n\n\n2018 – 2025\n\nPostgraduate\nSpatial Statistics · STAT7006 / STAT4107\nSemester 2 · about 40 students · course coordinator\nSpatial random variables, testing for spatial autocorrelation, variograms, and spatial prediction with simple and ordinary kriging. Separate curricula for GIS and Honours students.\n\n\n\n2020 – 2025\n\nUndergraduate\nMathematical Statistics II · STAT2005\nJune / August · about 180 students\nTransformations of random variables, bivariate transformations, order statistics and hypothesis testing. I developed the course material, practicals and assessments.\n\n\n\n2025\n\nUndergraduate\nIntroduction to Spatial Statistics · STAT3037\nBlock 3 · 7 students · course coordinator\nSpatial data, autocorrelation, spatial sampling and applications, designed for the GIS professional degree.\n\n\n\n2019\n\nUndergraduate\nApplied Statistical Modelling · STAT3032\nBlock 2 · about 100 students\nTime series analysis, regression-based methods, ARIMA and the Box–Jenkins methodology, and spectral analysis. Coordinated labs with four tutors.\n\n\n\n2018\n\nShort course\nR Short Course\nOne week · students and professionals\nBasic statistical modelling in R. I helped develop the content, lectured and ran the practical sessions."
   },
   {
     "objectID": "teaching.html#teaching-philosophy",
     "href": "teaching.html#teaching-philosophy",
     "title": "Teaching",
-    "section": "Teaching Philosophy",
-    "text": "Teaching Philosophy\nMy teaching philosophy centres on fostering critical thinking, practical problem-solving, and a deep understanding of statistical concepts. I create engaging and inclusive learning environments where students feel empowered to explore and actively participate — integrating theory with real-world applications through R statistical software, R Shiny applications, live coding, and collaborative activities.\nI tailor my approach to each audience: simplifying concepts for service courses without sacrificing depth, guiding applied students through both theory and software implementation, and introducing challenging problems for students with strong mathematical backgrounds.\nKey innovations include:\n\nR Studio Cloud for real-time feedback on student scripts during online learning\nR Shiny applications for interactive exploration of statistical concepts without prior coding experience\nPre-semester R Bootcamp (2022 cohort) to address foundational gaps after online learning disruptions\nGroup-based R Shiny projects to promote applied, collaborative learning\nSentiment analysis of student qualitative feedback to gain deeper insight into learning experiences"
+    "section": "Teaching philosophy",
+    "text": "Teaching philosophy\nI want students to think critically, solve practical problems and understand statistical ideas deeply. My classes combine theory with real-world applications through R, R Shiny apps, live coding and group work, in an environment where every student feels able to take part.\nI adapt my approach to each audience. For service courses I simplify concepts without losing depth, I take applied students through both the theory and the software, and I give mathematically strong students harder problems.\nInnovations I have introduced include:\n\nPosit (RStudio) Cloud for real-time feedback on students’ scripts during online learning\nR Shiny applications that let students explore statistical concepts without prior coding experience\nA pre-semester R bootcamp (2022) to close gaps left by online learning\nGroup R Shiny projects for applied, collaborative learning\nSentiment analysis of students’ written feedback to better understand their learning experience"
   },
   {
     "objectID": "supervision.html",
     "href": "supervision.html",
     "title": "Supervision",
     "section": "",
-    "text": "I supervise Honours and Masters students in statistics, with projects spanning infectious disease modelling, spatial statistics, and wastewater-based epidemiology. Several students have received national recognition through the South African Statistical Association (SASA) competitions."
+    "text": "My students work on infectious disease modelling, spatial statistics and wastewater-based epidemiology. They have placed 1st, 2nd and 3rd (twice) in the South African Statistical Association (SASA) Honours competitions between 2021 and 2026."
   },
   {
-    "objectID": "supervision.html#honours-students",
-    "href": "supervision.html#honours-students",
+    "objectID": "supervision.html#masters",
+    "href": "supervision.html#masters",
     "title": "Supervision",
-    "section": "Honours Students",
-    "text": "Honours Students\n2020\nUkuKhanya Khumalo — Spatial and Spatio-Temporal Modelling of Housebreakings: A Case Study of South African District Municipalities (2014–2016) 2nd Place, SASA Competition 2020/21\nRendani Ngwagwe — Stochastic Epidemic Models of the Transmission Dynamics of Ebola Outstanding Research Project\nLuvo Ndzendze — Modelling Share Prices Using Time Series\n\n2021\nJadine Chetty — Comparison of Models for the Pneumonic Plague in Johannesburg (1904)\nKabelo Mphelo — Stochastic Modelling of Infectious Diseases\nNelebogo Kgohlo — Spatial-Temporal Modelling of Sexual Crimes in South Africa\nMohamed Rameez Amod — Assessing COVID-19 Vaccination Allocation Strategies in South Africa 1st Place, SASA Competition 2021/22\n\n2022\nJames Silinda — Sentiment Analysis and Exploratory Spatial Data Analysis: Vaccinations and Vaccine Hesitancy\nSboniso Shandu — Comparing Deterministic and Stochastic Models for the Spread of Tuberculosis\n\n2023\nMiguel Torres — Spatial modelling of COVID-19 using wastewater data in the presence of spatially misaligned data 3rd Place, SASA Competition 2023/24\n\n2025\nOdey Mofokeng — Refining Wastewater Surveillance through regression kriging: A Geostatistical approach to spatial prediction and public health applications\nGabriel Gordon & Dylan Kruger — The spatial risk analysis of disease outbreak in South Africa"
+    "section": "Masters",
+    "text": "Masters\n\n\n2021\n\nElona Mbayise Distinction\nModelling the spread of COVID-19 in South Africa using stratified compartmental models (March – August 2020). I also helped secure funding for her research."
   },
   {
-    "objectID": "supervision.html#masters-students",
-    "href": "supervision.html#masters-students",
+    "objectID": "supervision.html#honours",
+    "href": "supervision.html#honours",
     "title": "Supervision",
-    "section": "Masters Students",
-    "text": "Masters Students\n2021\nElona Mbayise — Modelling the Spread of COVID-19 in South Africa Using Stratified Compartmental Models (March 2020 – August 2020). Assisted with securing funding for her Master's research. Graduated with Distinction"
+    "section": "Honours",
+    "text": "Honours\n\n\n2025\n\nOdey Mofokeng · Refining wastewater surveillance through regression kriging: a geostatistical approach to spatial prediction and public health applications\nGabriel Gordon and Dylan Kruger · The spatial risk analysis of disease outbreaks in South Africa\n\n\n\n2023\n\nMiguel Torres 3rd place, SASA 2023/24\nSpatial modelling of COVID-19 using wastewater data in the presence of spatially misaligned data. Since published in Spatial Statistics (2026).\n\n\n\n2022\n\nJames Silinda · Sentiment analysis and exploratory spatial data analysis of vaccinations and vaccine hesitancy\nSboniso Shandu · Comparing deterministic and stochastic models for the spread of tuberculosis\n\n\n\n2021\n\nMohamed Rameez Amod 1st place, SASA 2021/22 · Assessing COVID-19 vaccination allocation strategies in South Africa\nJadine Chetty · Comparison of models for the pneumonic plague in Johannesburg (1904)\nKabelo Mphelo · Stochastic modelling of infectious diseases\nNelebogo Kgohlo · Spatio-temporal modelling of sexual crimes in South Africa\n\n\n\n2020\n\nUkuKhanya Khumalo 2nd place, SASA 2020/21 · Spatial and spatio-temporal modelling of housebreakings in South African district municipalities (2014–2016)\nRendani Ngwagwe Outstanding project · Stochastic epidemic models of the transmission dynamics of Ebola\nLuvo Ndzendze · Modelling share prices using time series"
   },
   {
-    "objectID": "supervision.html#future-goals",
-    "href": "supervision.html#future-goals",
+    "objectID": "supervision.html#looking-ahead",
+    "href": "supervision.html#looking-ahead",
     "title": "Supervision",
-    "section": "Future Goals",
-    "text": "Future Goals\nI aim to recruit and mentor at least two additional Honours students and one Masters student by end of 2025, and to secure support for a PhD student by mid-2026. Annual research workshops for postgraduate students are planned from 2026, creating a collaborative environment for spatial analysis and computational methods training."
+    "section": "Looking ahead",
+    "text": "Looking ahead\nI run regular research meetings with my postgraduate students through SEPIMOD. Through STEM MentHer and a proposed Elsevier Foundation programme, I am building structured support for women moving from Honours into academia. If you would like to work with me, see Join."
   },
   {
     "objectID": "join.html",
     "href": "join.html",
-    "title": "Join Us",
+    "title": "Join",
     "section": "",
-    "text": "I welcome motivated students and collaborators interested in spatial statistics, infectious disease modelling, and public health data science. My research group is based at the University of the Witwatersrand, Johannesburg."
+    "text": "My research group is based in the School of Statistics and Actuarial Science at the University of the Witwatersrand, Johannesburg."
   },
   {
     "objectID": "join.html#prospective-students",
     "href": "join.html#prospective-students",
-    "title": "Join Us",
-    "section": "Prospective Students",
-    "text": "Prospective Students\nHonours Students — I supervise Honours projects annually in the School of Statistics and Actuarial Sciences. Projects typically focus on one of my core research themes: spatio-stochastic modelling, spatial epidemiology, wastewater surveillance, or tuberculosis modelling. Students with a strong foundation in statistics and an interest in R programming are especially encouraged to reach out.\nMasters Students — I am open to supervising Masters students on topics aligned with my research programme. Interested students should contact me with a brief research statement and their academic transcript.\nPhD Students — I am actively seeking funding to support a PhD student by mid-2026. If you are interested in pursuing a PhD in spatial epidemiology or statistical public health, please get in touch to discuss possibilities."
+    "title": "Join",
+    "section": "Prospective students",
+    "text": "Prospective students\n\n\nHonours\n\nI supervise Honours projects every year, usually on one of my core themes: spatio-stochastic modelling, spatial epidemiology, wastewater surveillance or tuberculosis modelling. A strong foundation in statistics and an interest in R are a good start.\n\n\n\nMasters\n\nI am happy to supervise Masters students on topics that fit my research programme. Please send a short research statement and your academic transcript.\n\n\n\nPhD\n\nI currently supervise one PhD student and welcome enquiries from candidates interested in spatial epidemiology or statistical public health, particularly as new funding becomes available."
   },
   {
-    "objectID": "join.html#what-we-offer",
-    "href": "join.html#what-we-offer",
-    "title": "Join Us",
-    "section": "What We Offer",
-    "text": "What We Offer\n\nMentorship in a supportive, collaborative research environment\nRegular Thursday research meetings with staff and postgraduate students (SEPIMOD)\nAccess to national and international research networks\nOpportunities to present at conferences and co-author publications\nGuidance on applying for NRF and other funding"
+    "objectID": "join.html#what-i-offer",
+    "href": "join.html#what-i-offer",
+    "title": "Join",
+    "section": "What I offer",
+    "text": "What I offer\n\nMentoring in a supportive, collaborative research group\nRegular research meetings with staff and postgraduate students through SEPIMOD\nAccess to national and international research networks\nOpportunities to present at conferences and co-author papers\nGuidance on applying for NRF and other funding"
   },
   {
     "objectID": "join.html#collaborators",
     "href": "join.html#collaborators",
-    "title": "Join Us",
+    "title": "Join",
     "section": "Collaborators",
-    "text": "Collaborators\nI actively collaborate with researchers from:\n\nUniversity of Pretoria — spatial statistics, GIS, and epidemiology\nCouncil for Scientific and Industrial Research (CSIR)\nSouth African Medical Research Council (SAMRC)\nJohns Hopkins University — tuberculosis modelling (post-doctoral network)\n\nIf you are a researcher interested in collaboration on spatial epidemiology, infectious disease modelling, or wastewater surveillance, I would love to hear from you."
+    "text": "Collaborators\nI work with researchers at:\n\nUniversity of Pretoria: spatial statistics, GIS and epidemiology\nCouncil for Scientific and Industrial Research (CSIR)\nSouth African Medical Research Council (SAMRC)\nJohns Hopkins University: tuberculosis modelling\nOld Mutual–Wits Risk Lab\n\nIf you work on spatial epidemiology, infectious disease modelling or wastewater surveillance and would like to collaborate, I would be glad to hear from you."
   },
   {
     "objectID": "join.html#contact",
     "href": "join.html#contact",
-    "title": "Join Us",
+    "title": "Join",
     "section": "Contact",
-    "text": "Contact\n\n\nEmail manjoo.raeesa@gmail.com\n\n\nPhone +27 79 398 5933\n\n\nAddress School of Statistics and Actuarial Sciences\nUniversity of the Witwatersrand\nJohannesburg, South Africa"
+    "text": "Contact\n\nEmail\nmanjoo.raeesa@gmail.com\nPhone\n+27 79 398 5933\nORCID\n0000-0003-2039-0440\nProfiles\nGoogle Scholar · ResearchGate · LinkedIn\nAddress\nSchool of Statistics and Actuarial ScienceUniversity of the WitwatersrandJohannesburg, South Africa"
   },
   {
     "objectID": "funding.html",
     "href": "funding.html",
-    "title": "Research Funding",
+    "title": "Research funding",
     "section": "",
-    "text": "R 100,000\n    Wastewater Surveillance\n    DSTI-NRF Centre of Excellence in Mathematical & Statistical Sciences\n    February 2024 · Ongoing · Role: Collaborator (SEPIMOD)\n  \n\n  \n    R 50,000\n    ASA DataFest\n    COE-MASS Funding\n    May 2025 · Role: Co-PI\n  \n\n  \n    R 60,000\n    Spatial Prediction of COVID-19 Using Wastewater Surveillance\n    DSTI-NRF Centre of Excellence in Mathematical & Statistical Sciences\n    December 2022 – December 2023 · Role: Collaborator (SEPIMOD)\n  \n\n  \n    R 43,800\n    Evaluations and Recommendations of Teaching R to Undergraduate Students\n    Wits University Capacity Development Fund for the Scholarship of Teaching and Learning\n    March 2022 – February 2023 · Role: Co-PI & Facilitator"
+    "text": "2026 – 2029\n\nSpatio-temporal analysis of non-communicable diseases PI\nIMSA, Investec\nR200,000\n\n\n\n2026\n\nAdvancing spatio-stochastic modelling for public health PI\nNRF Thuthuka · in collaboration with CSIR, University of Pretoria and SAMRC\nR600,000\n\n\n\n2026\n\nMentoring women from Honours to academia Lead · Submitted\nElsevier Foundation, Mathematical Sciences Support Fund\nUS$4,000\n\n\n\n2025\n\nASA DataFest Co-PI\nDSI-NRF Centre of Excellence in Mathematical and Statistical Sciences (CoE-MaSS)\nR50,000\n\n\n\n2022 – 2025\n\nWastewater-based COVID-19 surveillance Modeller\nDSI-NRF Centre of Excellence in Mathematical and Statistical Sciences (CoE-MaSS) · SEPIMOD\nR160,000\n\n\n\n2022 – 2023\n\nEvaluations and recommendations for teaching R to undergraduate students Co-PI\nWits Capacity Development Fund for the Scholarship of Teaching and Learning\nR43,800"
+  },
+  {
+    "objectID": "funding.html#grants",
+    "href": "funding.html#grants",
+    "title": "Research funding",
+    "section": "",
+    "text": "2026 – 2029\n\nSpatio-temporal analysis of non-communicable diseases PI\nIMSA, Investec\nR200,000\n\n\n\n2026\n\nAdvancing spatio-stochastic modelling for public health PI\nNRF Thuthuka · in collaboration with CSIR, University of Pretoria and SAMRC\nR600,000\n\n\n\n2026\n\nMentoring women from Honours to academia Lead · Submitted\nElsevier Foundation, Mathematical Sciences Support Fund\nUS$4,000\n\n\n\n2025\n\nASA DataFest Co-PI\nDSI-NRF Centre of Excellence in Mathematical and Statistical Sciences (CoE-MaSS)\nR50,000\n\n\n\n2022 – 2025\n\nWastewater-based COVID-19 surveillance Modeller\nDSI-NRF Centre of Excellence in Mathematical and Statistical Sciences (CoE-MaSS) · SEPIMOD\nR160,000\n\n\n\n2022 – 2023\n\nEvaluations and recommendations for teaching R to undergraduate students Co-PI\nWits Capacity Development Fund for the Scholarship of Teaching and Learning\nR43,800"
   },
   {
     "objectID": "funding.html#about-my-funding",
     "href": "funding.html#about-my-funding",
-    "title": "Research Funding",
-    "section": "About My Funding",
-    "text": "About My Funding\nMy research has been funded through collaborative partnerships within SEPIMOD and through competitive applications to South African national funding bodies. My contributions have involved developing and applying innovative spatial and computational models, facilitating collaborative research efforts, and providing expertise in modelling and data analysis.\nI am currently pursuing independent funding as Primary Investigator through the NRF Thuthuka programme, which would support a comprehensive research initiative focusing on developing statistical methods for spatially misaligned health data, enhancing spatial-temporal modelling for disease surveillance, and creating spatial optimisation tools for TB intervention strategies."
+    "title": "Research funding",
+    "section": "About my funding",
+    "text": "About my funding\nMy early research was funded through collaborative partnerships within SEPIMOD, where I developed spatial and computational models and contributed modelling and data analysis expertise to national COVID-19 and wastewater surveillance work.\nI now lead independently funded research. The NRF Thuthuka grant supports statistical methods for spatially misaligned health data, spatio-temporal models for disease surveillance and spatial optimisation tools for tuberculosis interventions. A new IMSA and Investec grant extends this work to non-communicable diseases."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Raeesa Manjoo-Docrat",
+    "title": "Dr Raeesa Manjoo-Docrat",
     "section": "",
-    "text": "RMD\n  \n  \n    \n    Lecturer · School of Statistics & Actuarial Sciences · University of the Witwatersrand\n\n    \n      Email\n      Google Scholar\n      ResearchGate\n      LinkedIn\n      ORCID\n    \n\n    \n      Lecturer in Statistics at the University of the Witwatersrand, specialising in applied & spatial statistics, stochastic modelling, and survival analysis.\n      Dr. Manjoo-Docrat develops computational methods for understanding infectious disease dynamics, with a focus on spatio-stochastic models that capture the spatially heterogeneous nature of epidemic spread. She completed a post-doctoral fellowship at Johns Hopkins University focused on modelling tuberculosis transmission.\n      She is a founding member of SEPIMOD — the Spatial Epidemic Modelling Group — an interdisciplinary consortium advancing public health research across South Africa.\n    \n\n    \n      Spatial Statistics\n      Infectious Disease Modelling\n      Stochastic Processes\n      Survival Analysis\n      Wastewater Epidemiology\n      R Programming\n      Public Health"
+    "text": "Statistics · Spatial epidemiology\n\n\n\n\nLecturer, School of Statistics and Actuarial Science, University of the Witwatersrand, Johannesburg\n\n\nEmail Google Scholar ORCID ResearchGate LinkedIn\nI have been a Lecturer in Statistics at the University of the Witwatersrand since 2018. My work centres on spatio-stochastic models that capture the spatially uneven way epidemics spread, with applications to COVID-19, tuberculosis and wastewater-based disease surveillance. I completed a postdoctoral fellowship in tuberculosis modelling at Johns Hopkins University in 2024.\nI am a founding member of the SEPIMOD COVID-19 modelling consortium, which brings together Wits, the University of Pretoria, the CSIR and the South African Medical Research Council, and of the Old Mutual–Wits Risk Lab. I also coordinate mentoring for STEM MentHer and care a great deal about helping students move from Honours into research careers."
   },
   {
     "objectID": "index.html#research",
     "href": "index.html#research",
-    "title": "Raeesa Manjoo-Docrat",
+    "title": "Dr Raeesa Manjoo-Docrat",
     "section": "Research",
-    "text": "Research\n\n  47Citations\n  4h-index\n  2i10-index\n  7Publications\n  2018At Wits Since\n\n\n\n  \n    01\n    Spatio-Stochastic Modelling of Infectious Disease Spread\n    Developing spatial components integrated into discrete-time binomial chain models for nuanced understanding of disease transmission dynamics, including local transmission, inter-regional interactions, and migration between spatial units.\n  \n  \n    02\n    Spatial Epidemiology of COVID-19\n    Spatially explicit SEIR models incorporating a vulnerability index reflecting socioeconomic and health-related disparities, alongside mobility data, illustrated using South African COVID-19 data to inform targeted public health responses.\n  \n  \n    03\n    Wastewater-Based Epidemiology (WBE)\n    Exploring cost-effective community-level disease surveillance through wastewater analysis, developing spatial methods for early-warning systems and hotspot identification in urban and peri-urban settings.\n  \n  \n    04\n    Modelling Tuberculosis in Vulnerable Populations\n    Individual-based models for TB prevalence in high-risk populations, incorporating COVID-19 disruptions and developing spatial optimisation tools for vaccination and resource allocation.\n  \n  \n    05\n    Innovative Approaches to Teaching R in Statistics\n    Examining R programming integration into undergraduate and postgraduate curricula, evaluating pedagogical strategies, and developing open-source R packages for spatial epidemiological modelling."
+    "text": "Research\n\n\n\nSpatio-stochastic models of disease spread\nDiscrete-time binomial chain models with spatial structure, capturing local transmission, interaction between regions and movement between spatial units.\n\n\n\n\nSpatial epidemiology of COVID-19\nSpatially explicit, age-stratified SEIR models that combine mobility data with a vulnerability index reflecting socioeconomic and health disparities, to guide targeted public health responses.\n\n\n\n\nWastewater-based surveillance\nLow-cost, community-level surveillance from wastewater, including methods for spatially misaligned data, early warning and hotspot detection in urban and peri-urban settings.\n\n\n\n\nTuberculosis in vulnerable populations\nIndividual-based models of TB in high-risk groups, the effect of COVID-19 disruptions on TB epidemiology, and spatial optimisation of vaccination and resource allocation.\n\n\n\n\nNon-communicable diseases\nSpatio-temporal analysis of non-communicable diseases, a new programme funded by IMSA and Investec (2026–2029).\n\n\n\n\nTeaching statistics with R\nEvaluating how R is taught across undergraduate and postgraduate curricula, and building open-source tools for spatial epidemiological modelling."
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Raeesa Manjoo-Docrat",
-    "section": "Education & Awards",
-    "text": "Education & Awards\n\n\n\nEducation\n\n  \n    Post-doctoral Fellowship\n    Johns Hopkins University, USA\n    2024\n    Modelling tuberculosis spread; public health strategies\n  \n  \n    PhD in Philosophy\n    University of the Witwatersrand\n    2022\n    The Spatio-Stochastic Modelling of the Spread of Infectious Diseases · Supervisor: Prof. Frank Beichelt\n  \n  \n    MSc (with Distinction)\n    University of the Witwatersrand\n    2018\n    Generation Functions in Branching and Birth and Death Processes · Supervisor: Prof. Frank Beichelt\n  \n  \n    Honours in Mathematics & Mathematical Statistics\n    University of the Witwatersrand\n    2015\n    Mathematics: Enumeration of Trees (Supervisor: Prof. Arnold Knopfmacher) — Statistics: Survival Probabilities of the Blue Crane Population (Supervisor: Dr Fitsum Gebreselassie)\n  \n  \n    Postgraduate Diploma in Statistics & Actuarial Sciences\n    University of the Witwatersrand\n    2013\n  \n  \n    BSc in Mathematics\n    University of the Witwatersrand\n    2012"
+    "objectID": "index.html#education-and-positions",
+    "href": "index.html#education-and-positions",
+    "title": "Dr Raeesa Manjoo-Docrat",
+    "section": "Education and positions",
+    "text": "Education and positions\n\n\n2018 – now\n\nLecturer, Statistics and Actuarial Science\nUniversity of the Witwatersrand\n\n\n\n2024\n\nPostdoctoral Fellow, tuberculosis modelling\nJohns Hopkins University, USA\n\n\n\n2022\n\nPhD in Statistics\nUniversity of the Witwatersrand · The spatio-stochastic modelling of the spread of infectious diseases · Supervisor: Prof. Frank Beichelt\n\n\n\n2018\n\nMSc in Statistics, with distinction\nUniversity of the Witwatersrand · Generating functions in branching and birth-and-death processes · Supervisor: Prof. Frank Beichelt\n\n\n\n2015\n\nBSc Honours, Mathematics and Mathematical Statistics\nUniversity of the Witwatersrand · Liberty Life Gold Medal, top student in Mathematical Statistics\n\n\n\n2013\n\nPostgraduate Diploma in Statistics and Actuarial Science\nUniversity of the Witwatersrand\n\n\n\n2012\n\nBSc in Mathematics\nUniversity of the Witwatersrand"
   },
   {
-    "objectID": "index.html#service",
-    "href": "index.html#service",
-    "title": "Raeesa Manjoo-Docrat",
-    "section": "Professional Affiliations & Service",
-    "text": "Professional Affiliations & Service\n\n  Founding Member, SEPIMOD — Spatial Epidemiological Modelling Group\n  Member, South African Statistical Association (SASA), 2016–present\n  Member, R-Ladies Johannesburg, 2018–present\n  Mentor Coordinator, STEM MentHer Programme, 2025–present\n  Organising Committee, DataFest at University of Pretoria, 2025\n  Reviewer, Spatial Statistics Journal, 2019 & 2023\n  External Examiner, Masters dissertations, Univ. of Pretoria, 2023\n  External Examiner, Statistics course, UKZN, 2021\n  Member, School Ethics Committee, Wits, 2021–2023\n  Member, Undergraduate Curriculum Committee, Wits\n  Member, Honours Programme Redevelopment Team, Wits\n  Course Coordinator, Spatial Statistics & Survival Analysis, Wits"
+    "objectID": "index.html#leadership-and-service",
+    "href": "index.html#leadership-and-service",
+    "title": "Dr Raeesa Manjoo-Docrat",
+    "section": "Leadership and service",
+    "text": "Leadership and service\n\n\nFounding member\n\nOld Mutual–Wits Risk Lab; SEPIMOD COVID-19 modelling consortium (Wits, University of Pretoria, CSIR, SAMRC)\n\n\n\nMentoring\n\nMentor Coordinator, STEM MentHer (2025 – now). Co-author of the Indigenising Mentorship framework for African early-career academics (2025).\n\n\n\nService\n\nSASA 2026 Local Organising Committee and Scientific Programme Committee; organiser, ASA DataFest (2025); reviewer for Spatial Statistics."
+  },
+  {
+    "objectID": "index.html#awards",
+    "href": "index.html#awards",
+    "title": "Dr Raeesa Manjoo-Docrat",
+    "section": "Awards",
+    "text": "Awards\n\n\n2025\n\nWits Early Career Academic Development (ECAD) Programme\n\n\n\n2023\n\nSilver Medal, best poster\nSpatial Statistics Conference, Boulder, USA\n\n\n\n2021\n\nMathematical Sciences Early Career Fellowship\n\n\n\n2015\n\nLiberty Life Gold Medal\nTop student, Mathematical Statistics Honours\n\n\n\n2011\n\nCertificate of First Class\nDiscrete Mathematics (MATH2020)\n\n\n\n2010\n\nUniversity Entrance Scholarship"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Citations: 47  ·  h-index: 4  ·  i10-index: 2  ·  Since 2020.\n  View on Google Scholar →\n\n\n\n\n  \n    2025\n    \n      Spatial age-stratified epidemiological model with applications to South African COVID-19 pandemic\n      \n        Manjoo-Docrat, R., Abdelatif, N., Holloway, J., Dudeni-Tlhone, N., Dresselhaus, C., Mbayise, E., et al.\n        Heliyon, 11(11)\n        Q1 · IF 4.3\n      \n    \n  \n\n  \n    2025\n    \n      A phenomenological methodology for wave detection in epidemics (In review)\n      \n        Brettenny, W., Holloway, J., Fabris-Rotelli, I., Dudeni-Tlhone, N., Abdelatif, N., le Roux, W., Manjoo-Docrat, R., Debba, P.\n        Under Review\n      \n    \n  \n\n  \n    2023\n    \n      A spatial model with vaccinations for COVID-19 in South Africa\n      \n        Dresselhaus, C., Fabris-Rotelli, I., Manjoo-Docrat, R., Brettenny, W., Holloway, J., Abdelatif, N., Thiede, R., Debba, P. and Dudeni-Tlhone, N.\n        Spatial Statistics, p.100792\n        Q1 · IF 2.6\n      \n    \n  \n\n  \n    2022\n    \n      A spatio-stochastic model for the spread of infectious diseases\n      \n        Manjoo-Docrat, R.\n        Journal of Theoretical Biology, 533, p.110943\n        Q2 · IF 1.98\n      \n    \n  \n\n  \n    2022\n    \n      A Spatial SEIR Model for COVID-19 in South Africa\n      \n        Fabris-Rotelli, I., Holloway, J., Kimmie, Z., Archibald, S., Debba, P., Manjoo-Docrat, R., le Roux, A., Dudeni-Tlhone, N., et al.\n        Journal of Data Science, Statistics, and Visualisation, 2(7), 14–45\n        Q3 · IF 0.387\n      \n    \n  \n\n  \n    2021\n    \n      Modelling representative population mobility for COVID-19 spatial transmission in South Africa\n      \n        Potgieter, A., Fabris-Rotelli, I.N., Kimmie, Z., Dudeni-Tlhone, N., Holloway, J.P., Janse van Rensburg, C., Thiede, R.N., Debba, P., Manjoo-Docrat, R., Abdelatif, N. and Khuluse-Makhanya, S.\n        Frontiers in Big Data, 4, p.718351\n        Q3 · IF 2.4\n      \n    \n  \n\n  \n    2021\n    \n      Global Variation in the Basic Reproduction Number of COVID-19\n      \n        Thiede, R., Abdelatif, N., Fabris-Rotelli, I., Manjoo-Docrat, R., Holloway, J., Janse van Rensburg, C., Debba, P., Dudeni-Tlhone, N., Kimmie, Z., and le Roux, A.\n        Academia Letters, doi:10.20935/AL1956"
+    "text": "Also on Google Scholar, ORCID and ResearchGate."
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal articles",
+    "text": "Journal articles\n\n\n2026\n\nModelling of spatially misaligned wastewater-based surveillance data\nTorres, M., Docrat, R., et al.\nSpatial Statistics, 74, 101012\n\n\n\n2026\n\nRace and ethnicity in population attributable fractions for TB risk factors in the US\nAhmed, M.M., Manjoo-Docrat, R., et al.\nPublic Health Reports · published online June 2026\n\n\n\n2026\n\nImpact of the COVID-19 pandemic on tuberculosis epidemiology in California, Florida, New York, and Texas\nCilloni, L., Docrat, R., Haring, C., et al.\nAnnals of the American Thoracic Society, 23(4), 516–526 · published online October 2025\n\n\n\n2026\n\nA phenomenological methodology for wave detection in epidemics\nBrettenny, W., Holloway, J., Fabris-Rotelli, I., Dudeni-Tlhone, N., Abdelatif, N., le Roux, W., Manjoo-Docrat, R., Debba, P.\nAfrika Matematika, 37(1) · published online December 2025\n\n\n\n2025\n\nSpatial age-stratified epidemiological model with applications to the South African COVID-19 pandemic\nManjoo-Docrat, R., Abdelatif, N., Holloway, J., Dudeni-Tlhone, N., Dresselhaus, C., Mbayise, E., et al.\nHeliyon, 11(11), e43171\n\n\n\n2023\n\nA spatial model with vaccinations for COVID-19 in South Africa\nDresselhaus, C., Fabris-Rotelli, I., Manjoo-Docrat, R., Brettenny, W., Holloway, J., Abdelatif, N., Thiede, R., Debba, P., Dudeni-Tlhone, N.\nSpatial Statistics, 100792\n\n\n\n2022\n\nA spatio-stochastic model for the spread of infectious diseases Sole author\nManjoo-Docrat, R.\nJournal of Theoretical Biology, 533, 110943\n\n\n\n2022\n\nA spatial SEIR model for COVID-19 in South Africa\nFabris-Rotelli, I., Holloway, J., Kimmie, Z., Archibald, S., Debba, P., Manjoo-Docrat, R., le Roux, A., Dudeni-Tlhone, N., et al.\nJournal of Data Science, Statistics, and Visualisation, 2(7), 14–45\n\n\n\n2021\n\nModelling representative population mobility for COVID-19 spatial transmission in South Africa\nPotgieter, A., Fabris-Rotelli, I.N., Kimmie, Z., Dudeni-Tlhone, N., Holloway, J.P., Janse van Rensburg, C., Thiede, R.N., Debba, P., Manjoo-Docrat, R., Abdelatif, N., Khuluse-Makhanya, S.\nFrontiers in Big Data, 4, 718351\n\n\n\n2021\n\nGlobal variation in the basic reproduction number of COVID-19\nThiede, R., Abdelatif, N., Fabris-Rotelli, I., Manjoo-Docrat, R., Holloway, J., Janse van Rensburg, C., Debba, P., Dudeni-Tlhone, N., Kimmie, Z., le Roux, A.\nAcademia Letters, doi:10.20935/AL1956"
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\n\n\n2026\n\nExtending deep Cox survival models with case-cohort risk set sampling\nNasejje, J., Falk, M.P., Wright, M.N., Safari, W.C., Dechant, P.-P., Manjoo-Docrat, R., Nuermaimaiti, R.\nResearch Square preprint, September 2026"
   },
   {
     "objectID": "talks.html",
     "href": "talks.html",
-    "title": "Talks & Presentations",
+    "title": "Talks and presentations",
     "section": "",
-    "text": "Conference\n  Poster\n  Seminar\n  Workshop\n  Mini-Course / Invited\n\n\n\n  2025\n  \n    ConferenceIndigenising Mentorship: Towards a Framework for Early-Career Academics in African Higher Education\n    Echos of Protest, Visions of Praxis: Shaping Equitable Futures through Learning and Teaching · Wits University, September 2025\n  \n\n\n\n  2024\n  \n    Mini-CourseUncertainty and Sensitivity Analysis\n    3MC African Mathematical School on Quantitative Biology: Applications in Epidemiology, Ecology and Cancer · Northwest University (Potchefstroom), February 2024\n  \n\n\n\n  2023\n  \n    PosterSpatial Age-Stratified Epidemiological Model with Applications to the South Africa COVID-19 Pandemic  ★ Silver Medal\n    Spatial Statistics Conference · Boulder, USA, July 2023\n  \n\n\n\n  2022\n  \n    WorkshopDoctoral Supervision in Statistics\n    Workshop Series · Online, November 2022\n  \n\n\n\n  2022\n  \n    ConferenceEvaluations and Recommendations Teaching R to Undergraduate Statistics Students\n    International Conference on Teaching Statistics · Rosario, Argentina, September 2022\n  \n\n\n\n  2022\n  \n    ConferenceThe Spatio-Stochastic Modelling of Infectious Diseases\n    Mathematics Conference and Workshop for Emerging Researchers, January 2022\n  \n\n\n\n  2021\n  \n    SeminarHighlights and Experiences Modelling the COVID-19 Pandemic in South Africa\n    University of Pretoria, October 2021\n  \n\n\n\n  2020\n  \n    WorkshopSensitivity Analysis of SIR Model\n    R-Ladies Johannesburg, October 2020\n  \n\n\n\n  2020\n  \n    PosterModelling the Spread of Infectious Diseases Using a Spatio-Stochastic Model\n    30th International Biometric Conference (IBC 2020)\n  \n\n\n\n  2019\n  \n    SeminarModelling the Spread of Tuberculosis in South Africa Using a Spatio-Stochastic Model\n    University of the Witwatersrand, August 2019\n  \n\n\n\n  2019\n  \n    WorkshopR-Shiny Labs\n    R-Ladies Johannesburg, July 2019\n  \n\n\n\n  2018\n  \n    PosterModelling the Spread of Tuberculosis in South Africa\n    Spatial Statistics Conference · Sitges, Spain, July 2018\n  \n\n\n\n  2018\n  \n    PosterBranching Processes: An Application to the Blue Crane\n    South African Statistics Association Conference · Bloemfontein, November 2018\n  \n\n\n\n  2016\n  \n    ConferenceEstimating the Survival Probabilities of Blue Cranes\n    South African Statistics Association Conference · Pretoria, 2016"
+    "text": "2025\n\nConference\nIndigenising mentorship: towards a framework for early-career academics in African higher education\nEchoes of Protest, Visions of Praxis: Shaping Equitable Futures through Learning and Teaching · Wits University, September 2025\n\n\n\n2024\n\nInvited mini-course\nUncertainty and sensitivity analysis\n3MC African Mathematical School on Quantitative Biology · North-West University, Potchefstroom, February 2024\n\n\n\n2023\n\nPoster\nSpatial age-stratified epidemiological model with applications to the South African COVID-19 pandemic Silver Medal\nSpatial Statistics Conference · Boulder, USA, July 2023\n\n\n\n2022\n\nWorkshop\nDoctoral supervision in statistics\nWorkshop series · online, November 2022\n\n\n\n2022\n\nConference\nEvaluations and recommendations for teaching R to undergraduate statistics students\nInternational Conference on Teaching Statistics (ICOTS) · Rosario, Argentina, September 2022\n\n\n\n2022\n\nConference\nThe spatio-stochastic modelling of infectious diseases\nMathematics Conference and Workshop for Emerging Researchers · January 2022\n\n\n\n2021\n\nSeminar\nHighlights and experiences modelling the COVID-19 pandemic in South Africa\nUniversity of Pretoria · October 2021\n\n\n\n2020\n\nWorkshop\nSensitivity analysis of the SIR model\nR-Ladies Johannesburg · October 2020\n\n\n\n2020\n\nPoster\nModelling the spread of infectious diseases using a spatio-stochastic model\n30th International Biometric Conference (IBC 2020)\n\n\n\n2019\n\nSeminar\nModelling the spread of tuberculosis in South Africa using a spatio-stochastic model\nUniversity of the Witwatersrand · August 2019\n\n\n\n2019\n\nWorkshop\nR Shiny labs\nR-Ladies Johannesburg · July 2019\n\n\n\n2018\n\nPoster\nModelling the spread of tuberculosis in South Africa\nSpatial Statistics Conference · Sitges, Spain, July 2018\n\n\n\n2018\n\nPoster\nBranching processes: an application to the blue crane\nSouth African Statistical Association Conference · Bloemfontein, November 2018\n\n\n\n2016\n\nConference\nEstimating the survival probabilities of blue cranes\nSouth African Statistical Association Conference · Pretoria, 2016"
   }
 ]
