@@ -1,0 +1,86 @@
+---
+title: "Research funding"
+subtitle: "Grants as principal investigator and through the SEPIMOD collaboration."
+---
+
+## Grants
+
+::: entries
+::: entry
+[2026 – 2029]{.when}
+
+::: what
+**Spatio-temporal analysis of non-communicable diseases** [PI]{.note}
+
+[IMSA, Investec]{.meta}
+
+[R200,000]{.amount}
+:::
+:::
+
+::: entry
+[2026]{.when}
+
+::: what
+**Advancing spatio-stochastic modelling for public health** [PI]{.note}
+
+[NRF Thuthuka · in collaboration with CSIR, University of Pretoria and SAMRC]{.meta}
+
+[R600,000]{.amount}
+:::
+:::
+
+::: entry
+[2026]{.when}
+
+::: what
+**Mentoring women from Honours to academia** [Lead · Submitted]{.note}
+
+[Elsevier Foundation, Mathematical Sciences Support Fund]{.meta}
+
+[US$4,000]{.amount}
+:::
+:::
+
+::: entry
+[2025]{.when}
+
+::: what
+**ASA DataFest** [Co-PI]{.note}
+
+[DSI-NRF Centre of Excellence in Mathematical and Statistical Sciences (CoE-MaSS)]{.meta}
+
+[R50,000]{.amount}
+:::
+:::
+
+::: entry
+[2022 – 2025]{.when}
+
+::: what
+**Wastewater-based COVID-19 surveillance** [Modeller]{.note}
+
+[DSI-NRF Centre of Excellence in Mathematical and Statistical Sciences (CoE-MaSS) · SEPIMOD]{.meta}
+
+[R160,000]{.amount}
+:::
+:::
+
+::: entry
+[2022 – 2023]{.when}
+
+::: what
+**Evaluations and recommendations for teaching R to undergraduate students** [Co-PI]{.note}
+
+[Wits Capacity Development Fund for the Scholarship of Teaching and Learning]{.meta}
+
+[R43,800]{.amount}
+:::
+:::
+:::
+
+## About my funding
+
+My early research was funded through collaborative partnerships within SEPIMOD, where I developed spatial and computational models and contributed modelling and data analysis expertise to national COVID-19 and wastewater surveillance work.
+
+I now lead independently funded research. The NRF Thuthuka grant supports statistical methods for spatially misaligned health data, spatio-temporal models for disease surveillance and spatial optimisation tools for tuberculosis interventions. A new IMSA and Investec grant extends this work to non-communicable diseases.

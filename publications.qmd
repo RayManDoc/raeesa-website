@@ -1,0 +1,146 @@
+---
+title: "Publications"
+subtitle: "Ten peer-reviewed papers. Most recent first."
+---
+
+Also on [Google Scholar](https://scholar.google.com/citations?user=nqGypBUAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-2039-0440) and [ResearchGate](https://www.researchgate.net/profile/Raeesa-Docrat).
+
+## Journal articles
+
+::: entries
+::: entry
+[2026]{.when}
+
+::: what
+**[Modelling of spatially misaligned wastewater-based surveillance data](https://doi.org/10.1016/j.spasta.2026.101012)**
+
+Torres, M., Docrat, R., et al.
+
+[*Spatial Statistics*, 74, 101012]{.meta}
+:::
+:::
+
+::: entry
+[2026]{.when}
+
+::: what
+**[Race and ethnicity in population attributable fractions for TB risk factors in the US](https://doi.org/10.1177/00333549261453003)**
+
+Ahmed, M.M., Manjoo-Docrat, R., et al.
+
+[*Public Health Reports* · published online June 2026]{.meta}
+:::
+:::
+
+::: entry
+[2026]{.when}
+
+::: what
+**[Impact of the COVID-19 pandemic on tuberculosis epidemiology in California, Florida, New York, and Texas](https://doi.org/10.1513/annalsats.202503-260oc)**
+
+Cilloni, L., Docrat, R., Haring, C., et al.
+
+[*Annals of the American Thoracic Society*, 23(4), 516–526 · published online October 2025]{.meta}
+:::
+:::
+
+::: entry
+[2026]{.when}
+
+::: what
+**[A phenomenological methodology for wave detection in epidemics](https://doi.org/10.1007/s13370-025-01401-x)**
+
+Brettenny, W., Holloway, J., Fabris-Rotelli, I., Dudeni-Tlhone, N., Abdelatif, N., le Roux, W., Manjoo-Docrat, R., Debba, P.
+
+[*Afrika Matematika*, 37(1) · published online December 2025]{.meta}
+:::
+:::
+
+::: entry
+[2025]{.when}
+
+::: what
+**[Spatial age-stratified epidemiological model with applications to the South African COVID-19 pandemic](https://doi.org/10.1016/j.heliyon.2025.e43171)**
+
+Manjoo-Docrat, R., Abdelatif, N., Holloway, J., Dudeni-Tlhone, N., Dresselhaus, C., Mbayise, E., et al.
+
+[*Heliyon*, 11(11), e43171]{.meta}
+:::
+:::
+
+::: entry
+[2023]{.when}
+
+::: what
+**A spatial model with vaccinations for COVID-19 in South Africa**
+
+Dresselhaus, C., Fabris-Rotelli, I., Manjoo-Docrat, R., Brettenny, W., Holloway, J., Abdelatif, N., Thiede, R., Debba, P., Dudeni-Tlhone, N.
+
+[*Spatial Statistics*, 100792]{.meta}
+:::
+:::
+
+::: entry
+[2022]{.when}
+
+::: what
+**A spatio-stochastic model for the spread of infectious diseases** [Sole author]{.note}
+
+Manjoo-Docrat, R.
+
+[*Journal of Theoretical Biology*, 533, 110943]{.meta}
+:::
+:::
+
+::: entry
+[2022]{.when}
+
+::: what
+**A spatial SEIR model for COVID-19 in South Africa**
+
+Fabris-Rotelli, I., Holloway, J., Kimmie, Z., Archibald, S., Debba, P., Manjoo-Docrat, R., le Roux, A., Dudeni-Tlhone, N., et al.
+
+[*Journal of Data Science, Statistics, and Visualisation*, 2(7), 14–45]{.meta}
+:::
+:::
+
+::: entry
+[2021]{.when}
+
+::: what
+**Modelling representative population mobility for COVID-19 spatial transmission in South Africa**
+
+Potgieter, A., Fabris-Rotelli, I.N., Kimmie, Z., Dudeni-Tlhone, N., Holloway, J.P., Janse van Rensburg, C., Thiede, R.N., Debba, P., Manjoo-Docrat, R., Abdelatif, N., Khuluse-Makhanya, S.
+
+[*Frontiers in Big Data*, 4, 718351]{.meta}
+:::
+:::
+
+::: entry
+[2021]{.when}
+
+::: what
+**Global variation in the basic reproduction number of COVID-19**
+
+Thiede, R., Abdelatif, N., Fabris-Rotelli, I., Manjoo-Docrat, R., Holloway, J., Janse van Rensburg, C., Debba, P., Dudeni-Tlhone, N., Kimmie, Z., le Roux, A.
+
+[*Academia Letters*, doi:10.20935/AL1956]{.meta}
+:::
+:::
+:::
+
+## Preprints
+
+::: entries
+::: entry
+[2026]{.when}
+
+::: what
+**[Extending deep Cox survival models with case-cohort risk set sampling](https://doi.org/10.21203/rs.3.rs-11057132/v1)**
+
+Nasejje, J., Falk, M.P., Wright, M.N., Safari, W.C., Dechant, P.-P., Manjoo-Docrat, R., Nuermaimaiti, R.
+
+[*Research Square* preprint, September 2026]{.meta}
+:::
+:::
+:::

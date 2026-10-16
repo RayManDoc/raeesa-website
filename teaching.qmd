@@ -1,0 +1,108 @@
+---
+title: "Teaching"
+subtitle: "Lecturer, School of Statistics and Actuarial Science, University of the Witwatersrand, since April 2018."
+---
+
+I teach undergraduate and postgraduate courses in applied statistics, spatial statistics, survival analysis and statistical programming. I try to connect theory with practice, and R is central to how I teach.
+
+## Courses
+
+::: entries
+::: entry
+[2021 – 2025]{.when}
+
+::: what
+[Undergraduate]{.kind}
+
+**Survival Analysis** · STAT3035
+
+[Semester 1 · about 100 students · course coordinator]{.meta}
+
+Kaplan–Meier estimation, hazard functions, design of experiments, model checking, multiple events and frailty. I developed the course material, practicals and assessments.
+:::
+:::
+
+::: entry
+[2018 – 2025]{.when}
+
+::: what
+[Postgraduate]{.kind}
+
+**Spatial Statistics** · STAT7006 / STAT4107
+
+[Semester 2 · about 40 students · course coordinator]{.meta}
+
+Spatial random variables, testing for spatial autocorrelation, variograms, and spatial prediction with simple and ordinary kriging. Separate curricula for GIS and Honours students.
+:::
+:::
+
+::: entry
+[2020 – 2025]{.when}
+
+::: what
+[Undergraduate]{.kind}
+
+**Mathematical Statistics II** · STAT2005
+
+[June / August · about 180 students]{.meta}
+
+Transformations of random variables, bivariate transformations, order statistics and hypothesis testing. I developed the course material, practicals and assessments.
+:::
+:::
+
+::: entry
+[2025]{.when}
+
+::: what
+[Undergraduate]{.kind}
+
+**Introduction to Spatial Statistics** · STAT3037
+
+[Block 3 · 7 students · course coordinator]{.meta}
+
+Spatial data, autocorrelation, spatial sampling and applications, designed for the GIS professional degree.
+:::
+:::
+
+::: entry
+[2019]{.when}
+
+::: what
+[Undergraduate]{.kind}
+
+**Applied Statistical Modelling** · STAT3032
+
+[Block 2 · about 100 students]{.meta}
+
+Time series analysis, regression-based methods, ARIMA and the Box–Jenkins methodology, and spectral analysis. Coordinated labs with four tutors.
+:::
+:::
+
+::: entry
+[2018]{.when}
+
+::: what
+[Short course]{.kind}
+
+**R Short Course**
+
+[One week · students and professionals]{.meta}
+
+Basic statistical modelling in R. I helped develop the content, lectured and ran the practical sessions.
+:::
+:::
+:::
+
+## Teaching philosophy
+
+I want students to think critically, solve practical problems and understand statistical ideas deeply. My classes combine theory with real-world applications through R, R Shiny apps, live coding and group work, in an environment where every student feels able to take part.
+
+I adapt my approach to each audience. For service courses I simplify concepts without losing depth, I take applied students through both the theory and the software, and I give mathematically strong students harder problems.
+
+Innovations I have introduced include:
+
+- Posit (RStudio) Cloud for real-time feedback on students' scripts during online learning
+- R Shiny applications that let students explore statistical concepts without prior coding experience
+- A pre-semester R bootcamp (2022) to close gaps left by online learning
+- Group R Shiny projects for applied, collaborative learning
+- Sentiment analysis of students' written feedback to better understand their learning experience

@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+  resources:
+    - robots.txt
+
+website:
+  title: "Raeesa Manjoo-Docrat"
+  site-url: "https://raymandoc.github.io/raeesa-website/"
+  description: "Lecturer in Statistics at the University of the Witwatersrand. Spatial statistics and infectious disease modelling."
+  search: false
+  navbar:
+    title: "Raeesa Manjoo-Docrat"
+    right:
+      - text: "About"
+        href: index.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Funding"
+        href: funding.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Supervision"
+        href: supervision.qmd
+      - text: "Talks"
+        href: talks.qmd
+      - text: "Join"
+        href: join.qmd
+  page-footer:
+    left: "© 2026 Raeesa Manjoo-Docrat"
+    right: "School of Statistics and Actuarial Science · University of the Witwatersrand"
+
+format:
+  html:
+    theme: [default, styles.scss]
+    toc: false
+    page-layout: article
+    smooth-scroll: true
+    anchor-sections: false
+    title-block-banner: false

@@ -1,0 +1,78 @@
+---
+title: "Join"
+subtitle: "Students and collaborators interested in spatial statistics, infectious disease modelling and public health data science are welcome to get in touch."
+---
+
+My research group is based in the School of Statistics and Actuarial Science at the University of the Witwatersrand, Johannesburg.
+
+## Prospective students
+
+::: entries
+::: entry
+[Honours]{.when}
+
+::: what
+I supervise Honours projects every year, usually on one of my core themes: spatio-stochastic modelling, spatial epidemiology, wastewater surveillance or tuberculosis modelling. A strong foundation in statistics and an interest in R are a good start.
+:::
+:::
+
+::: entry
+[Masters]{.when}
+
+::: what
+I am happy to supervise Masters students on topics that fit my research programme. Please send a short research statement and your academic transcript.
+:::
+:::
+
+::: entry
+[PhD]{.when}
+
+::: what
+I currently supervise one PhD student and welcome enquiries from candidates interested in spatial epidemiology or statistical public health, particularly as new funding becomes available.
+:::
+:::
+:::
+
+## What I offer
+
+- Mentoring in a supportive, collaborative research group
+- Regular research meetings with staff and postgraduate students through SEPIMOD
+- Access to national and international research networks
+- Opportunities to present at conferences and co-author papers
+- Guidance on applying for NRF and other funding
+
+## Collaborators
+
+I work with researchers at:
+
+- University of Pretoria: spatial statistics, GIS and epidemiology
+- Council for Scientific and Industrial Research (CSIR)
+- South African Medical Research Council (SAMRC)
+- Johns Hopkins University: tuberculosis modelling
+- Old Mutual–Wits Risk Lab
+
+If you work on spatial epidemiology, infectious disease modelling or wastewater surveillance and would like to collaborate, I would be glad to hear from you.
+
+## Contact
+
+::: kv
+[Email]{.k}
+
+[manjoo.raeesa@gmail.com](mailto:manjoo.raeesa@gmail.com)
+
+[Phone]{.k}
+
++27 79 398 5933
+
+[ORCID]{.k}
+
+[0000-0003-2039-0440](https://orcid.org/0000-0003-2039-0440)
+
+[Profiles]{.k}
+
+[Google Scholar](https://scholar.google.com/citations?user=nqGypBUAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Raeesa-Docrat) · [LinkedIn](https://www.linkedin.com/in/raeesa-docrat-88228bb1/)
+
+[Address]{.k}
+
+School of Statistics and Actuarial Science<br>University of the Witwatersrand<br>Johannesburg, South Africa
+:::

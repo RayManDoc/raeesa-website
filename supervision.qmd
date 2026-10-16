@@ -1,0 +1,84 @@
+---
+title: "Supervision"
+subtitle: "Currently supervising 1 PhD and 1 MSc student. Completed: 13 Honours and 1 MSc (with distinction)."
+---
+
+My students work on infectious disease modelling, spatial statistics and wastewater-based epidemiology. They have placed 1st, 2nd and 3rd (twice) in the South African Statistical Association (SASA) Honours competitions between 2021 and 2026.
+
+## Masters
+
+::: entries
+::: entry
+[2021]{.when}
+
+::: what
+**Elona Mbayise** [Distinction]{.note}
+
+Modelling the spread of COVID-19 in South Africa using stratified compartmental models (March – August 2020). I also helped secure funding for her research.
+:::
+:::
+:::
+
+## Honours
+
+::: entries
+::: entry
+[2025]{.when}
+
+::: what
+**Odey Mofokeng** · Refining wastewater surveillance through regression kriging: a geostatistical approach to spatial prediction and public health applications
+
+**Gabriel Gordon and Dylan Kruger** · The spatial risk analysis of disease outbreaks in South Africa
+:::
+:::
+
+::: entry
+[2023]{.when}
+
+::: what
+**Miguel Torres** [3rd place, SASA 2023/24]{.note}
+
+Spatial modelling of COVID-19 using wastewater data in the presence of spatially misaligned data. Since published in *Spatial Statistics* (2026).
+:::
+:::
+
+::: entry
+[2022]{.when}
+
+::: what
+**James Silinda** · Sentiment analysis and exploratory spatial data analysis of vaccinations and vaccine hesitancy
+
+**Sboniso Shandu** · Comparing deterministic and stochastic models for the spread of tuberculosis
+:::
+:::
+
+::: entry
+[2021]{.when}
+
+::: what
+**Mohamed Rameez Amod** [1st place, SASA 2021/22]{.note} · Assessing COVID-19 vaccination allocation strategies in South Africa
+
+**Jadine Chetty** · Comparison of models for the pneumonic plague in Johannesburg (1904)
+
+**Kabelo Mphelo** · Stochastic modelling of infectious diseases
+
+**Nelebogo Kgohlo** · Spatio-temporal modelling of sexual crimes in South Africa
+:::
+:::
+
+::: entry
+[2020]{.when}
+
+::: what
+**UkuKhanya Khumalo** [2nd place, SASA 2020/21]{.note} · Spatial and spatio-temporal modelling of housebreakings in South African district municipalities (2014–2016)
+
+**Rendani Ngwagwe** [Outstanding project]{.note} · Stochastic epidemic models of the transmission dynamics of Ebola
+
+**Luvo Ndzendze** · Modelling share prices using time series
+:::
+:::
+:::
+
+## Looking ahead
+
+I run regular research meetings with my postgraduate students through SEPIMOD. Through STEM MentHer and a proposed Elsevier Foundation programme, I am building structured support for women moving from Honours into academia. If you would like to work with me, see [Join](join.qmd).

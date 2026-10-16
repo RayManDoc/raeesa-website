@@ -1,0 +1,174 @@
+---
+title: "Talks and presentations"
+subtitle: "Conference talks, posters, seminars, workshops and invited courses."
+---
+
+::: entries
+::: entry
+[2025]{.when}
+
+::: what
+[Conference]{.kind}
+
+**Indigenising mentorship: towards a framework for early-career academics in African higher education**
+
+[Echoes of Protest, Visions of Praxis: Shaping Equitable Futures through Learning and Teaching · Wits University, September 2025]{.meta}
+:::
+:::
+
+::: entry
+[2024]{.when}
+
+::: what
+[Invited mini-course]{.kind}
+
+**Uncertainty and sensitivity analysis**
+
+[3MC African Mathematical School on Quantitative Biology · North-West University, Potchefstroom, February 2024]{.meta}
+:::
+:::
+
+::: entry
+[2023]{.when}
+
+::: what
+[Poster]{.kind}
+
+**Spatial age-stratified epidemiological model with applications to the South African COVID-19 pandemic** [Silver Medal]{.note}
+
+[Spatial Statistics Conference · Boulder, USA, July 2023]{.meta}
+:::
+:::
+
+::: entry
+[2022]{.when}
+
+::: what
+[Workshop]{.kind}
+
+**Doctoral supervision in statistics**
+
+[Workshop series · online, November 2022]{.meta}
+:::
+:::
+
+::: entry
+[2022]{.when}
+
+::: what
+[Conference]{.kind}
+
+**Evaluations and recommendations for teaching R to undergraduate statistics students**
+
+[International Conference on Teaching Statistics (ICOTS) · Rosario, Argentina, September 2022]{.meta}
+:::
+:::
+
+::: entry
+[2022]{.when}
+
+::: what
+[Conference]{.kind}
+
+**The spatio-stochastic modelling of infectious diseases**
+
+[Mathematics Conference and Workshop for Emerging Researchers · January 2022]{.meta}
+:::
+:::
+
+::: entry
+[2021]{.when}
+
+::: what
+[Seminar]{.kind}
+
+**Highlights and experiences modelling the COVID-19 pandemic in South Africa**
+
+[University of Pretoria · October 2021]{.meta}
+:::
+:::
+
+::: entry
+[2020]{.when}
+
+::: what
+[Workshop]{.kind}
+
+**Sensitivity analysis of the SIR model**
+
+[R-Ladies Johannesburg · October 2020]{.meta}
+:::
+:::
+
+::: entry
+[2020]{.when}
+
+::: what
+[Poster]{.kind}
+
+**Modelling the spread of infectious diseases using a spatio-stochastic model**
+
+[30th International Biometric Conference (IBC 2020)]{.meta}
+:::
+:::
+
+::: entry
+[2019]{.when}
+
+::: what
+[Seminar]{.kind}
+
+**Modelling the spread of tuberculosis in South Africa using a spatio-stochastic model**
+
+[University of the Witwatersrand · August 2019]{.meta}
+:::
+:::
+
+::: entry
+[2019]{.when}
+
+::: what
+[Workshop]{.kind}
+
+**R Shiny labs**
+
+[R-Ladies Johannesburg · July 2019]{.meta}
+:::
+:::
+
+::: entry
+[2018]{.when}
+
+::: what
+[Poster]{.kind}
+
+**Modelling the spread of tuberculosis in South Africa**
+
+[Spatial Statistics Conference · Sitges, Spain, July 2018]{.meta}
+:::
+:::
+
+::: entry
+[2018]{.when}
+
+::: what
+[Poster]{.kind}
+
+**Branching processes: an application to the blue crane**
+
+[South African Statistical Association Conference · Bloemfontein, November 2018]{.meta}
+:::
+:::
+
+::: entry
+[2016]{.when}
+
+::: what
+[Conference]{.kind}
+
+**Estimating the survival probabilities of blue cranes**
+
+[South African Statistical Association Conference · Pretoria, 2016]{.meta}
+:::
+:::
+:::
