@@ -26,7 +26,7 @@ Modelling the spread of COVID-19 in South Africa using stratified compartmental 
 [2025]{.when}
 
 ::: what
-**Odey Mofokeng** · Refining wastewater surveillance through regression kriging: a geostatistical approach to spatial prediction and public health applications
+**Odey Mofokeng** [3rd place, SASA 2025/26]{.note} · Refining wastewater surveillance through regression kriging: a geostatistical approach to spatial prediction and public health applications
 
 **Gabriel Gordon and Dylan Kruger** · The spatial risk analysis of disease outbreaks in South Africa
 :::
