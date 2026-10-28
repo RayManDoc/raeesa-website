@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+description: "Statistics courses taught by Dr Raeesa Manjoo-Docrat at the University of the Witwatersrand, including survival analysis and spatial statistics."
 subtitle: "Senior Lecturer (since November 2025), School of Statistics and Actuarial Science, University of the Witwatersrand. Teaching at Wits since April 2018."
 ---
 

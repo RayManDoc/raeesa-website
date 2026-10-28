@@ -1,5 +1,6 @@
 ---
 title: "Talks and presentations"
+description: "Conference talks, posters, seminars and workshops by Dr Raeesa Manjoo-Docrat."
 subtitle: "Conference talks, posters, seminars, workshops and invited courses."
 ---
 

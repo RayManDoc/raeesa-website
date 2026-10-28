@@ -1,5 +1,6 @@
 ---
 title: "Research funding"
+description: "Research grants held by Dr Raeesa Manjoo-Docrat, including NRF Thuthuka and IMSA–Investec funding for spatio-stochastic public health modelling."
 subtitle: "Grants as principal investigator and through the SEPIMOD collaboration."
 ---
 

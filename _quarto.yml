@@ -5,11 +5,15 @@ project:
     - "*.qmd"
   resources:
     - robots.txt
+    - googlefdfd5f100a69ccbf.html
 
 website:
-  title: "Raeesa Manjoo-Docrat"
+  title: "Dr Raeesa Manjoo-Docrat · Statistics, Wits"
   site-url: "https://raymandoc.github.io/raeesa-website/"
-  description: "Senior Lecturer in Statistics at the University of the Witwatersrand. Spatial statistics and infectious disease modelling."
+  description: "Dr Raeesa Manjoo-Docrat (Raeesa Docrat), Senior Lecturer in Statistics at the University of the Witwatersrand, Johannesburg. Spatial statistics and infectious disease modelling."
+  image: raeesa-card.jpg
+  open-graph: true
+  twitter-card: true
   search: false
   navbar:
     title: "Raeesa Manjoo-Docrat"

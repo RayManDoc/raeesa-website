@@ -1,5 +1,6 @@
 ---
 title: "Supervision"
+description: "Honours, Masters and PhD students supervised by Dr Raeesa Manjoo-Docrat at the University of the Witwatersrand."
 subtitle: "Currently supervising 1 PhD and 1 MSc student. Completed: 13 Honours and 1 MSc (with distinction)."
 ---
 

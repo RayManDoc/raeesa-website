@@ -1,5 +1,6 @@
 ---
 title: "Join"
+description: "Postgraduate study and research collaboration with Dr Raeesa Manjoo-Docrat at the University of the Witwatersrand, Johannesburg."
 subtitle: "Students and collaborators interested in spatial statistics, infectious disease modelling and public health data science are welcome to get in touch."
 ---
 

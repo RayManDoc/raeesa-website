@@ -1,5 +1,8 @@
 ---
-pagetitle: "Raeesa Manjoo-Docrat"
+pagetitle: "Dr Raeesa Manjoo-Docrat · Statistics, Wits"
+image: raeesa-card.jpg
+description: "Dr Raeesa Manjoo-Docrat (Raeesa Docrat) is a Senior Lecturer in Statistics at the University of the Witwatersrand, working on spatial statistics, infectious disease modelling, tuberculosis and wastewater surveillance."
+include-in-header: person.html
 ---
 
 ::: hero

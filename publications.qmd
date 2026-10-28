@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+description: "Publications by Dr Raeesa Manjoo-Docrat (Raeesa Docrat) on spatial epidemiology, COVID-19, tuberculosis and wastewater-based surveillance."
 subtitle: "Most recent first."
 ---
 
