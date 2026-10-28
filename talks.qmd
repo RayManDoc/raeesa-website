@@ -6,6 +6,18 @@ subtitle: "Conference talks, posters, seminars, workshops and invited courses."
 
 ::: entries
 ::: entry
+[2026]{.when}
+
+::: what
+[Innovation pitch]{.kind}
+
+**Spatial innovation in wastewater-based epidemiology: an early-warning surveillance system for South Africa**
+
+[Wits Faculty of Science Research & Innovation Showcase 2026 · Innovation Day, Young Innovators Pitches · Wits Science Stadium, 29 October 2026]{.meta}
+:::
+:::
+
+::: entry
 [2025]{.when}
 
 ::: what
