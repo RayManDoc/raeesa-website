@@ -2,17 +2,19 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap');
 
-$ink:    #14231a;   // near-black with a green cast
-$muted:  #4b5f52;
-$faint:  #6f8a77;
-$forest: #123423;   // deepest green: menu, header bands, footer
-$pine:   #1a4a32;   // slightly lighter band tone
-$accent: #1d6140;   // links, numbers, labels
-$leaf:   #a9d4b6;   // light green for text on dark green
-$sage:   #9dbca7;
-$rule:   #d3e1d6;
-$paper:  #f5f9f4;
-$tint:   #e2eee4;
+// Light green and turquoise palette
+$ink:    #15302c;   // body text, dark teal-green
+$muted:  #4a6560;
+$faint:  #6c8b85;
+$deep:   #0d5a52;   // headings
+$accent: #10806c;   // green: links, labels
+$turq:   #0f9196;   // turquoise: years, highlights
+$rule:   #cfe6e0;
+$paper:  #fafdfc;
+$mint:   #e6f6ef;
+$aqua:   #ddf3f4;
+$wash:   linear-gradient(120deg, $mint 0%, $aqua 100%);
+$stripe: linear-gradient(90deg, #2fae7f 0%, #19a6a8 100%);
 
 $body-bg: $paper;
 $body-color: $ink;
@@ -20,78 +22,79 @@ $link-color: $accent;
 $font-family-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
 $headings-font-family: "Source Serif 4", Georgia, serif;
 $headings-font-weight: 500;
-$headings-color: $forest;
+$headings-color: $deep;
 $font-size-base: 1.0rem;
 $line-height-base: 1.7;
 
-$navbar-bg: $forest;
-$navbar-fg: rgba($paper, .78);
-$navbar-hl: #ffffff;
-$footer-bg: $forest;
-$footer-fg: $sage;
+$navbar-bg: #ffffff;
+$navbar-fg: $muted;
+$navbar-hl: $deep;
+$footer-bg: $mint;
+$footer-fg: $muted;
 
 /*-- scss:rules --*/
 
+html, body { overflow-x: clip; }
 body { -webkit-font-smoothing: antialiased; }
 
 a { text-decoration: none; border-bottom: 1px solid rgba($accent, .3); transition: border-color .15s, color .15s; }
-a:hover { color: darken($accent, 8%); border-bottom-color: $accent; }
+a:hover { color: $turq; border-bottom-color: $turq; }
 
-// Full-width green band behind an element, without horizontal scrolling
-@mixin band($color) {
-  background: $color;
-  box-shadow: 0 0 0 100vmax $color;
-  clip-path: inset(0 -100vmax);
+// Full-width soft band behind an element (works with gradients)
+@mixin band($bg) {
+  position: relative; isolation: isolate;
+  &::before {
+    content: ""; position: absolute; top: 0; bottom: 0; left: 50%;
+    width: 100vw; transform: translateX(-50%); background: $bg; z-index: -1;
+  }
 }
 
-// Navigation
+// Navigation: white bar with a thin green-to-turquoise stripe on top
 .navbar {
-  border-bottom: 1px solid rgba($leaf, .14);
-  padding-top: .9rem; padding-bottom: .9rem;
+  border-top: 3px solid transparent; border-image: $stripe 1;
+  border-bottom: 1px solid $rule;
+  padding-top: .8rem; padding-bottom: .8rem;
   a { border-bottom: none; }
-  .navbar-title { font-family: $headings-font-family; font-size: 1.2rem; font-weight: 500; color: #fff; letter-spacing: .01em; }
+  .navbar-title { font-family: $headings-font-family; font-size: 1.2rem; font-weight: 500; color: $deep; letter-spacing: .01em; }
   .nav-link { font-size: .88rem; font-weight: 500; letter-spacing: .02em; }
-  .nav-link.active { color: #fff !important; box-shadow: inset 0 -2px 0 $leaf; }
+  .nav-link:hover { color: $turq !important; }
+  .nav-link.active { color: $deep !important; box-shadow: inset 0 -2px 0 $turq; }
 }
 
-.nav-footer { border-top: 0; font-size: .82rem; padding-top: 1.6rem; padding-bottom: 1.6rem; color: $sage; a { border-bottom: none; color: $paper; } }
+.nav-footer { border-top: 1px solid $rule; font-size: .82rem; padding-top: 1.6rem; padding-bottom: 1.6rem; color: $muted; a { border-bottom: none; color: $accent; } }
 .page-footer, footer.footer { margin-top: 4rem; }
 
 // Page title band (every page except home)
 #title-block-header {
-  @include band($forest);
+  @include band($wash);
   margin-top: 0; margin-bottom: 2.5rem; padding: 3.25rem 0 2.75rem;
 }
 #title-block-header:empty { display: none; }
 #title-block-header .description { display: none; }  // search-engine text only
 main.content { margin-top: 0; }
-h1.title { font-size: 2.6rem; font-weight: 500; letter-spacing: -.01em; color: #fff; }
-.quarto-title .subtitle, p.subtitle { color: $leaf; font-family: $font-family-sans-serif; font-size: 1.05rem; font-weight: 400; margin-top: .6rem; }
+h1.title { font-size: 2.6rem; font-weight: 500; letter-spacing: -.01em; color: $deep; }
+.quarto-title .subtitle, p.subtitle { color: $muted; font-family: $font-family-sans-serif; font-size: 1.05rem; font-weight: 400; margin-top: .6rem; }
 
 h2 {
   font-size: 1.55rem; margin-top: 3.5rem; margin-bottom: 1.25rem;
   padding-bottom: .55rem; border-bottom: 1px solid $rule; position: relative;
 }
-h2::after { content: ""; position: absolute; left: 0; bottom: -1px; width: 3rem; height: 2px; background: $accent; }
+h2::after { content: ""; position: absolute; left: 0; bottom: -1px; width: 3.5rem; height: 2px; background: $stripe; }
 h3 { font-size: 1.15rem; font-weight: 600; margin-top: 2rem; }
 
 // Small label above sections / eyebrow
 .eyebrow {
   font-family: $font-family-sans-serif; text-transform: uppercase; letter-spacing: .14em;
-  font-size: .72rem; font-weight: 600; color: $accent; margin-bottom: .4rem;
+  font-size: .72rem; font-weight: 600; color: $turq; margin-bottom: .4rem;
 }
 
-// Home hero: deep green band with name and photo
+// Home hero: soft mint-to-aqua band with name and photo
 .hero {
-  @include band($forest);
+  @include band($wash);
   margin: 0 0 1rem; padding: 3.5rem 0 3.25rem;
   display: grid; grid-template-columns: 11rem 1fr; gap: 2.5rem; align-items: center;
-  color: $paper;
-  .eyebrow { color: $leaf; }
-  h1 { color: #fff; }
-  .role { color: rgba($paper, .8); }
-  a { color: $paper; border-bottom-color: rgba($leaf, .45); }
-  a:hover { color: #fff; border-bottom-color: $leaf; }
+  h1 { color: $deep; }
+  .role { color: $muted; }
 }
 .hero-photo p { margin: 0; }
 .nowrap { white-space: nowrap; }
@@ -99,7 +102,7 @@ h3 { font-size: 1.15rem; font-weight: 600; margin-top: 2rem; }
 .hero-photo img.portrait {
   width: 11rem; height: 11rem; object-fit: cover; object-position: center 20%;
   border-radius: 50%; display: block;
-  box-shadow: 0 0 0 5px $forest, 0 0 0 6px $leaf;
+  box-shadow: 0 0 0 5px #fff, 0 0 0 7px rgba($turq, .55), 0 10px 30px rgba($deep, .12);
 }
 @media (max-width: 575px) {
   .hero { grid-template-columns: 1fr; gap: 1.5rem; padding-top: 2.5rem; }
@@ -110,21 +113,25 @@ h3 { font-size: 1.15rem; font-weight: 600; margin-top: 2rem; }
 .hero .role { font-size: 1.08rem; margin-bottom: 1.4rem; }
 .hero .links, .hero .links > p { display: flex; flex-wrap: wrap; gap: .4rem 1.4rem; font-size: .92rem; font-weight: 500; }
 
-.lede { font-family: $headings-font-family; font-size: 1.28rem; line-height: 1.6; color: $forest; margin: 2.5rem 0 1.5rem; padding-left: 1.1rem; border-left: 3px solid $accent; }
+.lede {
+  font-family: $headings-font-family; font-size: 1.28rem; line-height: 1.6; color: $deep;
+  margin: 2.5rem 0 1.5rem; padding-left: 1.1rem;
+  border-left: 3px solid transparent; border-image: linear-gradient(180deg, #2fae7f, #19a6a8) 1;
+}
 
 // Figures row
 .stats {
   display: grid; grid-template-columns: repeat(4, 1fr); gap: 0;
-  background: $pine; border-radius: 4px; margin: 2.5rem 0;
+  background: $wash; border: 1px solid $rule; border-radius: 6px; margin: 2.5rem 0;
   > div { padding: 1.2rem .5rem; text-align: center; }
-  > div + div { border-left: 1px solid rgba($leaf, .2); }
-  .num { font-family: $headings-font-family; font-size: 1.9rem; line-height: 1.1; color: #fff; display: block; }
-  .lbl { font-size: .78rem; color: $leaf; letter-spacing: .02em; }
+  > div + div { border-left: 1px solid $rule; }
+  .num { font-family: $headings-font-family; font-size: 1.9rem; line-height: 1.1; color: $turq; display: block; }
+  .lbl { font-size: .78rem; color: $muted; letter-spacing: .02em; }
 }
 @media (max-width: 575px) {
   .stats { grid-template-columns: repeat(2, 1fr);
     > div:nth-child(3) { border-left: 0; }
-    > div:nth-child(n+3) { border-top: 1px solid rgba($leaf, .2); } }
+    > div:nth-child(n+3) { border-top: 1px solid $rule; } }
   .hero h1 { font-size: 2.3rem; }
   h1.title { font-size: 2.1rem; }
 }
@@ -134,7 +141,7 @@ h3 { font-size: 1.15rem; font-weight: 600; margin-top: 2rem; }
 .theme { display: grid; grid-template-columns: 2.6rem 1fr; }
 .theme::before {
   counter-increment: theme; content: counter(theme, decimal-leading-zero);
-  font-family: $headings-font-family; color: $accent; font-size: 1rem; padding-top: .1rem;
+  font-family: $headings-font-family; color: $turq; font-size: 1rem; padding-top: .1rem;
 }
 .theme h3 { margin: 0 0 .3rem; font-size: 1.08rem; }
 .theme p { margin: 0; color: $muted; }
@@ -146,12 +153,12 @@ h3 { font-size: 1.15rem; font-weight: 600; margin-top: 2rem; }
   padding: 1rem 0; border-bottom: 1px solid $rule;
   &:last-child { border-bottom: 0; }
   > p { margin: 0; }
-  .when { color: $accent; font-size: .9rem; font-variant-numeric: tabular-nums; padding-top: .1rem; }
+  .when { color: $turq; font-size: .9rem; font-variant-numeric: tabular-nums; padding-top: .1rem; }
   .what p { margin: 0; }
   .what p + p { margin-top: .2rem; }
   strong { font-weight: 600; }
   strong a { color: $ink; font-weight: 600; border-bottom-color: $rule; }
-  strong a:hover { color: $accent; border-bottom-color: $accent; }
+  strong a:hover { color: $turq; border-bottom-color: $turq; }
   .meta { color: $muted; font-size: .93rem; }
 }
 @media (max-width: 575px) {
@@ -159,7 +166,7 @@ h3 { font-size: 1.15rem; font-weight: 600; margin-top: 2rem; }
 }
 
 // Small inline markers
-.note { display: inline-block; font-size: .74rem; font-weight: 600; letter-spacing: .04em; color: $accent; background: $tint; border-radius: 3px; padding: .05rem .45rem; margin-left: .35rem; vertical-align: .1em; white-space: nowrap; }
+.note { display: inline-block; font-size: .74rem; font-weight: 600; letter-spacing: .04em; color: $accent; background: $mint; border-radius: 3px; padding: .05rem .45rem; margin-left: .35rem; vertical-align: .1em; white-space: nowrap; }
 .kind { display: inline-block; font-size: .7rem; text-transform: uppercase; letter-spacing: .1em; color: $faint; margin-bottom: .1rem; }
 .amount { font-family: $headings-font-family; color: $accent; font-size: 1.05rem; }
 
@@ -170,5 +177,5 @@ h3 { font-size: 1.15rem; font-weight: 600; margin-top: 2rem; }
 .interests { color: $muted; font-size: .95rem; }
 
 ul li { margin-bottom: .35rem; }
-ul li::marker { color: $accent; }
+ul li::marker { color: $turq; }
 blockquote { border-left: 2px solid $accent; color: $muted; padding-left: 1rem; }
